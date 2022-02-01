@@ -22,9 +22,7 @@ function openWindow(url) {
 }
 
 function proCreate() {	
-	for (var i = 0; i < 20; i++) {
 		openWindow('lol.html');
-	}
 }
 
 function newXlt() {
